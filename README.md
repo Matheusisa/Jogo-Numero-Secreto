@@ -37,7 +37,7 @@ O **Jogo do Número Secreto** é um jogo interativo desenvolvido com HTML, CSS e
 ## Captura de Tela
 Adicione aqui um print do projeto para melhor visualização.
 
-![Print do Jogo](img\numero_secreto.jpg)
+![Print do Jogo](https://github.com/Matheusisa/Jogo-Numero-Secreto/blob/main/img/numero_secreto.jpg)
 
 ## Como Executar o Projeto
 1. Faça o download ou clone este repositório:
